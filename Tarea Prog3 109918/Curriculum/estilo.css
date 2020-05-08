@@ -1,0 +1,18 @@
+div {
+    position: relative;
+    left: 300px;
+}
+
+body {
+    background: #7B786F;
+    color: #ffffff;
+}
+
+h1{
+    font-size: 35px;
+    color: #8FCBE5;
+}
+h2{
+    font-size: 25px;
+    color: #A3CCDF;
+}
